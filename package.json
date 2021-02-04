@@ -22,11 +22,14 @@
     "gulp-sequence": "^1.0.0",
     "gulp-util": "^3.0.8",
     "gulp-webserver": "^0.9.1",
-    "gulp-wrap": "^0.13.0",
+    "gulp-wrap": "^0.15.0",
     "gulp-yaml": "^1.0.1",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.0.5",
     "marked": "^0.3.17",
     "merge-stream": "^1.0.1",
     "mocha": "^5.0.1"
+  },
+  "dependencies": {
+    "natives": "^1.1.6"
   }
 }
